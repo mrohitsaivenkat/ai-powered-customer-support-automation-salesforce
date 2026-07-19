@@ -1,0 +1,6 @@
+{
+  "name": "AI-Powered Customer Support & Service Automation",
+  "description": "Salesforce Service Console & Agentforce AI Service Agent simulator for managing customer cases, shipment orders, warranty checks, validation rules, flows, and generative AI prompt templates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
