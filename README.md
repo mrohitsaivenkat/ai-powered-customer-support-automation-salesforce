@@ -1,20 +1,22 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
-
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/4f359cba-81e3-4605-bbbc-c1b5f1f7de08
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+1. Requirement Analysis & Planning
+            a.Functional Scope
+            b.Stakeholder Mapping
+            c.Execution Roadmap
+2. Backend Development & Configurations
+            Salesforce Account
+            a.Steps to Implement
+            b.Tabs
+            c.Fields & Relationships
+            d.Validation Rules
+            e.Flows
+3. UI/UX Development & Customization
+             a.The Lightning App Creation
+4. Agentforce, Reporting & Deployment
+              a.Create Prompt Template
+              b.Deploy Prompt Builder in Student Object Using Lightning App Builder
+5. Deployment, Documentation & Maintenance
+6. Maintenance, Monitoring & Troubleshooting
+        a.Project Documentation
+        b.Guidelines for AI-Powered Customer Support & Service Documentation
+        c.Guidelines for AI-Powered Customer Support & Service Automation Salesforce Project Demo Video
+        d.Conclusion
